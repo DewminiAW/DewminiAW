@@ -21,17 +21,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📊 GitHub Stats (A+ Track)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DewminiAW&show_icons=true&theme=radial&rank_icon=github&count_private=true" alt="Dewmini's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewminiAW&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
-
 
