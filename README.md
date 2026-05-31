@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi , I'm Dewmini Wickramasooriya 👋
 
-<!--
-**DewminiAW/DewminiAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Entry-Level Full-Stack Software Engineer | Technical Student
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills (Stickers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend Development
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-%23C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Mobile Development & Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats (A+ Track)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DewminiAW&show_icons=true&theme=radial&rank_icon=github&count_private=true" alt="Dewmini's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewminiAW&layout=compact&theme=radial" alt="Top Languages" />
+</p>
+
+
+
